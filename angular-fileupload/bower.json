@@ -1,0 +1,34 @@
+{
+    "name": "angular-fileupload",
+    "version": "0.0.0",
+    "dependencies": {
+        "angular": "~1.5.8-build.4900+sha.aa8d783",
+        "angular-animate": "~1.5.8-build.4900+sha.aa8d783",
+        "angular-cookies": "~1.5.6-build.4785+sha.707664a",
+        "angular-local-storage": "~0.2.7",
+        "angular-resource": "^1.3.0",
+        "angular-route": "^1.3.0",
+        "angular-sanitize": "^1.3.0",
+        "angular-touch": "^1.3.0",
+        "angular-ui-sortable": "~0.13.4",
+        "bootstrap": "^3.2.0",
+        "dropzone": "~4.0.1",
+        "font-awesome": "~4.4.0",
+        "jquery-ui": "~1.11.4",
+        "jsSHA": "^2.0.2"
+    },
+    "devDependencies": {
+        "angular-mocks": "^1.3.0"
+    },
+    "appPath": "app",
+    "moduleName": "angularFileuploadApp",
+    "overrides": {
+        "bootstrap": {
+            "main": [
+                "less/bootstrap.less",
+                "dist/css/bootstrap.css",
+                "dist/js/bootstrap.js"
+            ]
+        }
+    }
+}

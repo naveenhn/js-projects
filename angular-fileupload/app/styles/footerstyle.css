@@ -1,0 +1,129 @@
+#mainbody{
+	width:100%;
+	height:551px;
+	background-color:#e6e4e4;
+
+}
+
+.footer-top1{
+	background-color: #01454b;
+	height:84px;
+	width:100%;
+}
+.footer-links{
+	color:  #ffffff;
+
+}
+.footer-links a{
+	display:inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	color:  inherit;
+	padding-left:40px;
+	padding-top:10px;
+	font-size:11px;
+}
+.paymentmtd {
+	padding-left: 40px;
+}
+.cnr2015{
+	float:right;
+	right:10px;
+	position:relative;
+	right:10px;
+}
+.paymentmtd{
+	display:inline-block;
+}
+.paymentmtd a {
+	color:#ffffff;
+	text-decoration:none;
+	padding-bottom:20px;
+	font-size:11px;
+	display:inline-block;
+}
+.footer-list{
+	height:551px;
+	width:1143px;
+	background-color:#02575f;
+}
+.col-sm-2 ul li{
+	list-style-type:none;
+	padding-top:20px;
+	color:#fff;
+	font-size:14px;
+	margin-left:-15px;
+	margin-top:-10px;
+	line-height:8px;
+}
+.meterial3,.meterial4,.meterial6{
+	margin-left:-40px;
+}
+.meterial2{
+	margin-left:15px;
+}
+.col-sm-2 ul li a{
+	color:#fff;
+	font-size:11px;
+}
+.hline{
+	width:1070px;
+	border:1px dotted #999999;
+	margin-left:30px;
+	margin-top:17px;
+}
+
+.row{
+	padding-top:20px;
+}
+.imgheight{
+	height:30px;
+	width:49px;
+}
+.netbnkimgheight{
+	height:30px;
+	width:49px;
+	margin-left:35px;
+}
+.Supportmargin-left{
+	margin-left:300px;
+}
+.Helpline{
+	margin-left:10px;
+}
+.facebook2-mrgleft{
+	margin-left:250px;
+}
+.twtr-rss-gglestyle{
+	margin-left:3px;
+}
+.buildingmaterials{
+	padding-bottom:5px;
+}
+.bootomdiv{
+	height:61px;
+	width:1143px;
+	background-color:#fff;
+	margin-top:-20px;
+}
+.addspace{
+	float:right;
+	height:610px;
+	width:205px;
+	margin-top:-466px;
+	background-color:lightgray;
+
+}
+.addspace h1{
+	margin-top:300px;
+	padding-left:15px;
+}
+.bootomdiv h1{
+	padding-top:10px;
+	text-align:center;
+	color:lightblue;
+}
+.loading{
+    height: 348px;
+    width: 344px;
+}

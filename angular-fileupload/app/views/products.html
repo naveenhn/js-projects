@@ -1,0 +1,13 @@
+<p>Retrieve all the products</p>
+
+<!--<button class="btn btn-lg btn-block btn-secondary " ng-click="logout() ">Logout (clears localstorage) </button>-->
+
+<div ng-repeat="product in productsData.products">
+    <h3><span>{{product.name}}</span><br></h3>
+    <pre>{{ product | json}}</pre>
+
+    </p>
+
+
+
+</div>
